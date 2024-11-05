@@ -1,0 +1,69 @@
+ [
+    {
+        "id": "el1",
+        "name": "Чикен",
+        "img": "https://i.ibb.co/v3YwtC6/chicken.jpg", 
+        "price": 379
+    },
+    {
+        "id": "el2",
+        "name": "Цезарь",
+        "img": "https://i.ibb.co/pLkyghz/cezar1-1.jpg", 
+        "price": 399
+    },
+    {
+        "id": "el3",
+        "name": "Барбекю",
+        "img": "https://i.ibb.co/fFqdWv0/barbekyu1.jpg", 
+        "price": 429
+    },
+    {
+        "id": "el4",
+        "name": "С ветчиной и грибами",
+        "img": "https://i.ibb.co/1X5njwc/vetchina-griby1.jpg", 
+        "price": 299
+    },
+    {
+        "id": "el5",
+        "name": "Пепперони",
+        "img": "https://i.ibb.co/gMwvvx1/pepperoni1.jpg", 
+        "price": 329
+    },
+    {
+        "id": "el6",
+        "name": "4 вкуса",
+        "img": "https://i.ibb.co/XxcHdjH/4-vkusa1-1.jpg", 
+        "price": 329
+    },
+    {
+        "id": "el7",
+        "name": "Мясной пир",
+        "img": "https://i.ibb.co/JsswcVF/myasn-pir1.jpg", 
+        "price": 349
+    },
+    {
+        "id": "el8",
+        "name": "Мясное удовольствие",
+        "img": "https://i.ibb.co/g9xjt51/myasn-ud1.jpg", 
+        "price": 359
+    },
+    {
+        "id": "el9",
+        "name": "Дон Бекон",
+        "img": "https://i.ibb.co/YTyTtHv/don-bekon1.jpg", 
+        "price": 369
+    },
+    {
+        "id": "el10",
+        "name": "Бруклин",
+        "img": "https://i.ibb.co/zNMDs9Q/sati-774-at-1.jpg", 
+        "price": 399
+    },
+    {
+        "id": "el11",
+        "name": "Жульен",
+        "img": "https://i.ibb.co/QcMhb6h/zhulen1.jpg", 
+        "price": 299
+    }
+]
+

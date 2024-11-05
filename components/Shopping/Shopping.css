@@ -1,0 +1,30 @@
+.shopping-container{
+    width: 97%;
+    height: 97vh;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: auto;
+    padding: 30px;
+    background: #fff;
+}
+.shopping-container-element__name{
+    padding: 15px;
+    font-weight: bold;
+}
+
+.shopping-container-element__price{
+    padding: 15px;
+    color: #808080;
+}
+
+.shopping__close{
+    position: absolute;
+    right: 20px; 
+    top: 20px;
+    width: 35px;
+    height: 35px;
+    background-image: url(close.svg);
+    cursor: pointer;
+}
